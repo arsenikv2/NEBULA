@@ -46,10 +46,10 @@ Nebula, üç ana fazda operasyon yürütür:
 ### Çalıştırma
 ```bash
 # Projeyi klonlayın
-git clone [https://github.com/zorgo/nebula-xcore.git](https://github.com/zorgo/nebula-xcore.git)
+git clone 
 
-# Klasöre gidin
-cd nebula-xcore
+# Klasöre gitclone https://github.com/arsenikv2/NEBULA/
+cd nebula
 
 # Motoru ateşleyin
 node nebula.js
