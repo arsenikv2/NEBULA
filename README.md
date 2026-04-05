@@ -46,9 +46,9 @@ Nebula, üç ana fazda operasyon yürütür:
 ### Çalıştırma
 ```bash
 # Projeyi klonlayın
-git clone 
+git clone https://github.com/arsenikv2/NEBULA/
 
-# Klasöre gitclone https://github.com/arsenikv2/NEBULA/
+# Klasör
 cd nebula
 
 # Motoru ateşleyin
